@@ -34,7 +34,7 @@ const moses = {
     "AWS Cloud"
   ],
 
-  portfolio: "https://mosesshamnavin.netlify.app/",
+  portfolio: "https://mosesshamnavin.vercel.app/",
   funFact:   "I debug with console.log and I'm proud of it 😄",
   motto:     () => "Ship fast. Build clean. Learn always.",
 };
@@ -83,43 +83,6 @@ const moses = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Mosesshamnavin">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mosesshamnavin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
-  <a href="https://github.com/Mosesshamnavin">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosesshamnavin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mosesshamnavin&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosesshamnavin&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mosesshamnavin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
 
 ---
 
