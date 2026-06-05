@@ -6,14 +6,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Moses%20Sham%20Navin%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%7C%20Building%20Interfaces%20That%20Matter&descAlignY=62&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Moses+Sham+Navin+%F0%9F%91%8B;Frontend+Developer+%7C+React+%2B+Next.js;Building+Performant+Web+Experiences;TypeScript+%7C+GraphQL+%7C+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Moses+Sham+Navin+%F0%9F%91%8B;Frontend+Developer+%7C+React+%2B+Next.js;Building+Performant+Web+Experiences;TypeScript+%7C+GraphQL+%7C+Tailwind+CSS" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const moses = {
@@ -29,14 +29,14 @@ const moses = {
   ],
 
   currentlyLearning: [
-    "Advanced System Design",
-    "Docker & CI/CD Pipelines",
-    "AWS Cloud Fundamentals"
+    "System Design",
+    "Docker & CI/CD",
+    "AWS Cloud"
   ],
 
-  funFact: "I debug with console.log and I'm proud of it 😄",
-
-  motto: () => "Ship fast. Build clean. Learn always.",
+  portfolio: "https://mosesshamnavin.netlify.app/",
+  funFact:   "I debug with console.log and I'm proud of it 😄",
+  motto:     () => "Ship fast. Build clean. Learn always.",
 };
 ```
 
@@ -125,56 +125,38 @@ const moses = {
 
 ## 💼 Work Experience
 
-<details>
-<summary><b>🏢 Hysas Technology Pvt Ltd — Junior Software Developer</b> &nbsp;|&nbsp; Sep 2025 – Present &nbsp;|&nbsp; Tamil Nadu, India</summary>
+### 🏢 Hysas Technology Pvt Ltd — Junior Software Developer
+**Sep 2025 – Present · Tamil Nadu, India**
 
-<br/>
+> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-> ![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white)
-> ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- 🏗️ Engineered enterprise-grade web apps with **Next.js + Hasura GraphQL** serving **50+ internal users** across textile, grocery & retail divisions
+- 🧩 Built reusable **UI component library** for Workify Schedule module, reducing feature dev time by **30%**
+- 💸 Developed **QR-based cashback system** with real-time tracking, processing **100+ daily requests**
+- 🔗 Integrated **Google Sheets APIs** for real-time dashboards — no database setup required for retail clients
+- 🐛 Fixed critical portal bugs improving data accuracy for **200+ employee records** during onboarding migrations
 
-- 🏗️ Engineered enterprise-grade web applications with **Next.js + Hasura GraphQL**, serving **50+ internal users** across textile, grocery, and retail divisions
-- 🧩 Architected a reusable **UI component library** for the Workify Schedule module, cutting feature development time by **30%**
-- 📱 Built responsive frontends with **real-time order tracking**, inventory dashboards, and dynamic pricing interfaces
-- 💸 Developed a **QR-based cashback system** processing **100+ daily cashback requests** with real-time transaction analytics
-- 🔗 Integrated **Google Sheets APIs** for lightweight management dashboards, enabling real-time data sync for retail clients
-- 🐛 Fixed critical UI issues in employee portal, improving data accuracy for **200+ employee records** during onboarding migrations
+---
 
-</details>
+### 🏢 Codem Inc. — Software Development Intern
+**Feb 2025 – May 2025 · Remote**
 
-<details>
-<summary><b>🏢 Codem Inc. — Software Development Intern</b> &nbsp;|&nbsp; Feb 2025 – May 2025 &nbsp;|&nbsp; Remote</summary>
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<br/>
+- ⚡ Achieved **95+ Lighthouse performance scores** on eCommerce platform with improved mobile responsiveness
+- 🌍 Integrated **real-time currency converter** enabling multi-currency pricing for **15+ countries**
+- 🚀 Reduced initial page load by **40%** via lazy loading & code splitting
+- 💳 Collaborated on **payment gateway integration** and redesigned product catalog UI
 
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-> ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+---
 
-- ⚡ Enhanced eCommerce platform UI achieving **95+ Lighthouse performance scores** with improved mobile responsiveness
-- 🌍 Integrated a **real-time currency converter API** enabling multi-currency pricing for **15+ countries**
-- 🚀 Reduced initial page load time by **40%** via lazy loading and code splitting optimizations
-- 💳 Collaborated on **payment gateway integration** and redesigned product catalog UI, improving user conversion flow
+### 🏢 Digisailor — Mobile Development Intern
+**June 2024 – July 2024 · Tamil Nadu, India**
 
-</details>
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-<details>
-<summary><b>🏢 Digisailor — Mobile Development Intern</b> &nbsp;|&nbsp; June 2024 – July 2024 &nbsp;|&nbsp; Tamil Nadu, India</summary>
-
-<br/>
-
-> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-> ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-- 📱 Developed **cross-platform mobile UI components** using Flutter and Dart — widget composition and state management
-- 🎨 Prototyped real-time app interfaces alongside senior developers, strengthening **mobile-first design principles**
-
-</details>
+- 📱 Built cross-platform mobile UI components using **Flutter & Dart** — widget composition & state management
+- 🎨 Prototyped real-time app interfaces with senior devs, strengthening **mobile-first design** skills
 
 ---
 
@@ -183,9 +165,13 @@ const moses = {
 <div align="center">
 
 | Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| [**🧠 Sentiment Analysis App**](https://github.com/Mosesshamnavin/smartapp) | React, Node.js, TensorFlow.js, face-api.js | Full-stack ML app — real-time **webcam emotion detection** + **NLP sentiment scoring** via RESTful API |
-| [**📰 News Checkup Dashboard**](https://github.com/Mosesshamnavin/News-Checkup) | React, Node.js, JWT, ShadCN UI, face-api.js | **100+ articles/day** across 10+ categories · JWT auth · **Passwordless Face Recognition Login** |
+|:--------|:-----:|:-----------|
+| [**🧠 EmotiScan**](https://github.com/Mosesshamnavin/EmotiScan) | React, face-api.js, TensorFlow.js | AI emotion detection — real-time **webcam facial expression** analysis |
+| [**📰 NewsDesk**](https://github.com/Mosesshamnavin/NewsDesk) | TypeScript, React, ShadCN UI | Interactive dashboard for **real-time news** organization & moderation |
+| [**🌤️ SkyCast**](https://github.com/Mosesshamnavin/SkyCast) | JavaScript, Weather API | Real-time **weather forecast** for any location with interactive UI |
+| [**🛍️ SouzaFlair**](https://github.com/Mosesshamnavin/SouzaFlair) | React, Tailwind CSS | Modern **e-commerce fashion platform** — cart, categories, responsive design |
+| [**📦 Scanly**](https://github.com/Mosesshamnavin/Scanly) | JavaScript, React | Instant **QR code generator** from text or URLs |
+| [**📊 TrendTracker**](https://github.com/Mosesshamnavin/TrendTracker) | Power BI | Textile shop **sales analytics** — revenue trends & product performance |
 
 </div>
 
@@ -196,13 +182,15 @@ const moses = {
 <div align="center">
 
 | 🏅 | Achievement | Details |
-|:--:|:-----------:|:-------:|
+|:--:|:------------|:--------|
+| 🏊 | **Pull Shark** | GitHub Achievement — multiple merged pull requests |
+| ⚡ | **Quickdraw** | GitHub Achievement — fast issue/PR response |
+| 👥 | **Pair Extraordinaire** | GitHub Achievement — collaborative co-authoring |
 | 🎓 | **MCA Graduate** | Francis Xavier Engineering College — 2023–2025 |
-| 💻 | **Production Features Shipped** | Delivered QR cashback system processing **100+ requests/day** |
-| ⚡ | **Performance Win** | Achieved **95+ Lighthouse score** on eCommerce platform |
-| 🚀 | **Load Time Optimization** | Reduced page load by **40%** via lazy loading + code splitting |
-| 👥 | **Scale** | Shipped apps serving **50+ internal enterprise users** |
-| 🌍 | **Multi-Currency Integration** | Enabled pricing for **15+ countries** via live API |
+| 💻 | **Production Delivery** | QR cashback system processing **100+ requests/day** |
+| ⚡ | **Performance Win** | **95+ Lighthouse score** on eCommerce platform |
+| 🚀 | **40% Load Time Cut** | Lazy loading + code splitting optimization |
+| 👥 | **Enterprise Scale** | Apps serving **50+ internal users** across 3 business verticals |
 
 </div>
 
@@ -212,10 +200,10 @@ const moses = {
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:------:|:-----------:|:----:|:-----:|
-| 🎓 Master of Computer Applications (MCA) | Francis Xavier Engineering College | 2023 – 2025 | — |
-| 🎓 Bachelor's Degree | Kamaraj College | 2020 – 2023 | — |
+| Degree | Institution | Year |
+|:------:|:-----------:|:----:|
+| 🎓 Master of Computer Applications (MCA) | Francis Xavier Engineering College | 2023 – 2025 |
+| 🎓 Bachelor's Degree | Kamaraj College | 2020 – 2023 |
 
 </div>
 
@@ -224,11 +212,11 @@ const moses = {
 ## 📚 Currently Learning
 
 ```
-🧱 System Design      → Scalability, Load Balancing, Caching Strategies
-☁️  Cloud (AWS)       → EC2, S3, Lambda, IAM
-🐳 DevOps             → Docker, CI/CD, GitHub Actions
-🔐 Auth & Security    → OAuth2, JWT Best Practices, RBAC
-📊 Data Layer         → Advanced PostgreSQL, Query Optimization
+🧱 System Design  →  Scalability, Load Balancing, Caching Strategies
+☁️  Cloud (AWS)   →  EC2, S3, Lambda, IAM
+🐳 DevOps         →  Docker, CI/CD, GitHub Actions
+🔐 Auth           →  OAuth2, JWT Best Practices, RBAC
+📊 Data Layer     →  Advanced PostgreSQL, Query Optimization
 ```
 
 ---
@@ -236,6 +224,9 @@ const moses = {
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://mosesshamnavin.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mosesshamnavin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -247,8 +238,6 @@ const moses = {
   </a>
 </p>
 
-<p align="center">
-  <i>"Ship fast. Build clean. Learn always."</i>
-</p>
+<p align="center"><i>"Ship fast. Build clean. Learn always."</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
