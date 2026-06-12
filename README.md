@@ -11,7 +11,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/visualstudiocode/70A5FD" width="22" valign="bottom" /> About Me
+## ![About Me](https://img.shields.io/badge/About_Me-70A5FD?style=flat-square&logo=visualstudiocode&logoColor=white) &nbsp;About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -44,7 +44,7 @@ const moses = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/stackblitz/70A5FD" width="22" valign="bottom" /> Tech Stack
+## ![Tech Stack](https://img.shields.io/badge/Tech_Stack-70A5FD?style=flat-square&logo=stackblitz&logoColor=white) &nbsp;Tech Stack
 
 **Frontend**
 
@@ -86,9 +86,9 @@ const moses = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/briefcase/70A5FD" width="22" valign="bottom" /> Work Experience
+## ![Work Experience](https://img.shields.io/badge/Work_Experience-70A5FD?style=flat-square&logo=briefcase&logoColor=white) &nbsp;Work Experience
 
-### <img src="https://cdn.simpleicons.org/buildkite/bf91f3" width="16" valign="bottom" /> Hysas Technology Pvt Ltd — Junior Software Developer
+### ![Hysas](https://img.shields.io/badge/Hysas_Technology-bf91f3?style=flat-square&logo=building&logoColor=white) Junior Software Developer
 **Sep 2025 – Present · Tamil Nadu, India**
 
 > ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -101,7 +101,7 @@ const moses = {
 
 ---
 
-### <img src="https://cdn.simpleicons.org/buildkite/bf91f3" width="16" valign="bottom" /> Codem Inc. — Software Development Intern
+### ![Codem](https://img.shields.io/badge/Codem_Inc.-bf91f3?style=flat-square&logo=building&logoColor=white) Software Development Intern
 **Feb 2025 – May 2025 · Remote**
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -113,7 +113,7 @@ const moses = {
 
 ---
 
-### <img src="https://cdn.simpleicons.org/buildkite/bf91f3" width="16" valign="bottom" /> Digisailor — Mobile Development Intern
+### ![Digisailor](https://img.shields.io/badge/Digisailor-bf91f3?style=flat-square&logo=building&logoColor=white) Mobile Development Intern
 **June 2024 – July 2024 · Tamil Nadu, India**
 
 > ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -123,7 +123,7 @@ const moses = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/rocket/70A5FD" width="22" valign="bottom" /> Featured Projects
+## ![Projects](https://img.shields.io/badge/Featured_Projects-70A5FD?style=flat-square&logo=rocket&logoColor=white) &nbsp;Featured Projects
 
 <div align="center">
 
@@ -140,7 +140,7 @@ const moses = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/70A5FD" width="22" valign="bottom" /> Achievements
+## ![Achievements](https://img.shields.io/badge/Achievements-70A5FD?style=flat-square&logo=github&logoColor=white) &nbsp;Achievements
 
 <div align="center">
 
@@ -149,30 +149,30 @@ const moses = {
 | ![](https://img.shields.io/badge/Pull_Shark-181717?style=flat-square&logo=github&logoColor=white) | **Pull Shark** | GitHub Achievement — multiple merged pull requests |
 | ![](https://img.shields.io/badge/Quickdraw-181717?style=flat-square&logo=github&logoColor=white) | **Quickdraw** | GitHub Achievement — fast issue/PR response |
 | ![](https://img.shields.io/badge/Pair_Extraordinaire-181717?style=flat-square&logo=github&logoColor=white) | **Pair Extraordinaire** | GitHub Achievement — collaborative co-authoring |
-| ![](https://img.shields.io/badge/MCA_Graduate-3178C6?style=flat-square&logo=academia&logoColor=white) | **MCA Graduate** | Francis Xavier Engineering College — 2023–2025 |
+| ![](https://img.shields.io/badge/MCA_Graduate-3178C6?style=flat-square&logo=graduationcap&logoColor=white) | **MCA Graduate** | Francis Xavier Engineering College — 2023–2025 |
 | ![](https://img.shields.io/badge/Production-339933?style=flat-square&logo=checkmarx&logoColor=white) | **Production Delivery** | QR cashback system processing **100+ requests/day** |
-| ![](https://img.shields.io/badge/Lighthouse_95+-F05032?style=flat-square&logo=lighthouse&logoColor=white) | **Performance Win** | **95+ Lighthouse score** on eCommerce platform |
+| ![](https://img.shields.io/badge/Lighthouse_95%2B-F05032?style=flat-square&logo=lighthouse&logoColor=white) | **Performance Win** | **95+ Lighthouse score** on eCommerce platform |
 | ![](https://img.shields.io/badge/40%25_Faster-1EB4D4?style=flat-square&logo=speedtest&logoColor=white) | **40% Load Time Cut** | Lazy loading + code splitting optimization |
-| ![](https://img.shields.io/badge/Enterprise_Scale-7952B3?style=flat-square&logo=building&logoColor=white) | **Enterprise Scale** | Apps serving **50+ internal users** across 3 business verticals |
+| ![](https://img.shields.io/badge/Enterprise_Scale-7952B3?style=flat-square&logo=users&logoColor=white) | **Enterprise Scale** | Apps serving **50+ internal users** across 3 business verticals |
 
 </div>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/googlescholar/70A5FD" width="22" valign="bottom" /> Education
+## ![Education](https://img.shields.io/badge/Education-70A5FD?style=flat-square&logo=googlescholar&logoColor=white) &nbsp;Education
 
 <div align="center">
 
 | Degree | Institution | Year |
 |:------:|:-----------:|:----:|
 | ![](https://img.shields.io/badge/MCA-3178C6?style=flat-square) Master of Computer Applications | Francis Xavier Engineering College | 2023 – 2025 |
-| ![](https://img.shields.io/badge/B.Sc-bf91f3?style=flat-square) Bachelor's Degree | Kamaraj College | 2020 – 2023 |
+| ![](https://img.shields.io/badge/B.Com-bf91f3?style=flat-square) Bachelor of Commerce | Kamaraj College | 2020 – 2023 |
 
 </div>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/bookstack/70A5FD" width="22" valign="bottom" /> Currently Learning
+## ![Learning](https://img.shields.io/badge/Currently_Learning-70A5FD?style=flat-square&logo=bookstack&logoColor=white) &nbsp;Currently Learning
 
 ```
 [ System Design ]  →  Scalability, Load Balancing, Caching Strategies
@@ -184,7 +184,7 @@ const moses = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/linkedin/70A5FD" width="22" valign="bottom" /> Connect With Me
+## ![Connect](https://img.shields.io/badge/Connect_With_Me-70A5FD?style=flat-square&logo=linkedin&logoColor=white) &nbsp;Connect With Me
 
 <p align="center">
   <a href="https://mosesshamnavin.vercel.app/" target="_blank">
