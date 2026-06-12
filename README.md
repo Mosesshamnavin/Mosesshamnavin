@@ -6,12 +6,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Moses%20Sham%20Navin%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%7C%20Building%20Interfaces%20That%20Matter&descAlignY=62&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Moses+Sham+Navin+%F0%9F%91%8B;Frontend+Developer+%7C+React+%2B+Next.js;Building+Performant+Web+Experiences;TypeScript+%7C+GraphQL+%7C+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Moses+Sham+Navin;Frontend+Developer+%7C+React+%2B+Next.js;Building+Performant+Web+Experiences;TypeScript+%7C+GraphQL+%7C+Tailwind+CSS" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://cdn.simpleicons.org/visualstudiocode/70A5FD" width="22" valign="bottom" /> About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -19,7 +19,7 @@
 const moses = {
   name:     "Moses Sham Navin R",
   username: "Mosesshamnavin",
-  location: "Tamil Nadu, India 🇮🇳",
+  location: "Tamil Nadu, India",
   degree:   "MCA — Francis Xavier Engineering College",
 
   stack: [
@@ -35,7 +35,7 @@ const moses = {
   ],
 
   portfolio: "https://mosesshamnavin.vercel.app/",
-  funFact:   "I debug with console.log and I'm proud of it 😄",
+  funFact:   "I debug with console.log and I'm proud of it",
   motto:     () => "Ship fast. Build clean. Learn always.",
 };
 ```
@@ -44,7 +44,7 @@ const moses = {
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn.simpleicons.org/stackblitz/70A5FD" width="22" valign="bottom" /> Tech Stack
 
 **Frontend**
 
@@ -86,105 +86,105 @@ const moses = {
 
 ---
 
-## 💼 Work Experience
+## <img src="https://cdn.simpleicons.org/briefcase/70A5FD" width="22" valign="bottom" /> Work Experience
 
-### 🏢 Hysas Technology Pvt Ltd — Junior Software Developer
+### <img src="https://cdn.simpleicons.org/buildkite/bf91f3" width="16" valign="bottom" /> Hysas Technology Pvt Ltd — Junior Software Developer
 **Sep 2025 – Present · Tamil Nadu, India**
 
 > ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🏗️ Engineered enterprise-grade web apps with **Next.js + Hasura GraphQL** serving **50+ internal users** across textile, grocery & retail divisions
-- 🧩 Built reusable **UI component library** for Workify Schedule module, reducing feature dev time by **30%**
-- 💸 Developed **QR-based cashback system** with real-time tracking, processing **100+ daily requests**
-- 🔗 Integrated **Google Sheets APIs** for real-time dashboards — no database setup required for retail clients
-- 🐛 Fixed critical portal bugs improving data accuracy for **200+ employee records** during onboarding migrations
+- ![](https://img.shields.io/badge/-Enterprise_Apps-0d1117?style=flat-square) Engineered enterprise-grade web apps with **Next.js + Hasura GraphQL** serving **50+ internal users** across textile, grocery & retail divisions
+- ![](https://img.shields.io/badge/-UI_Library-0d1117?style=flat-square) Built reusable **UI component library** for Workify Schedule module, reducing feature dev time by **30%**
+- ![](https://img.shields.io/badge/-Payments-0d1117?style=flat-square) Developed **QR-based cashback system** with real-time tracking, processing **100+ daily requests**
+- ![](https://img.shields.io/badge/-Integrations-0d1117?style=flat-square) Integrated **Google Sheets APIs** for real-time dashboards — no database setup required for retail clients
+- ![](https://img.shields.io/badge/-Bug_Fixes-0d1117?style=flat-square) Fixed critical portal bugs improving data accuracy for **200+ employee records** during onboarding migrations
 
 ---
 
-### 🏢 Codem Inc. — Software Development Intern
+### <img src="https://cdn.simpleicons.org/buildkite/bf91f3" width="16" valign="bottom" /> Codem Inc. — Software Development Intern
 **Feb 2025 – May 2025 · Remote**
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-- ⚡ Achieved **95+ Lighthouse performance scores** on eCommerce platform with improved mobile responsiveness
-- 🌍 Integrated **real-time currency converter** enabling multi-currency pricing for **15+ countries**
-- 🚀 Reduced initial page load by **40%** via lazy loading & code splitting
-- 💳 Collaborated on **payment gateway integration** and redesigned product catalog UI
+- ![](https://img.shields.io/badge/-Performance-0d1117?style=flat-square) Achieved **95+ Lighthouse performance scores** on eCommerce platform with improved mobile responsiveness
+- ![](https://img.shields.io/badge/-Multi_Currency-0d1117?style=flat-square) Integrated **real-time currency converter** enabling multi-currency pricing for **15+ countries**
+- ![](https://img.shields.io/badge/-Optimization-0d1117?style=flat-square) Reduced initial page load by **40%** via lazy loading & code splitting
+- ![](https://img.shields.io/badge/-Payments-0d1117?style=flat-square) Collaborated on **payment gateway integration** and redesigned product catalog UI
 
 ---
 
-### 🏢 Digisailor — Mobile Development Intern
+### <img src="https://cdn.simpleicons.org/buildkite/bf91f3" width="16" valign="bottom" /> Digisailor — Mobile Development Intern
 **June 2024 – July 2024 · Tamil Nadu, India**
 
 > ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-- 📱 Built cross-platform mobile UI components using **Flutter & Dart** — widget composition & state management
-- 🎨 Prototyped real-time app interfaces with senior devs, strengthening **mobile-first design** skills
+- ![](https://img.shields.io/badge/-Mobile_UI-0d1117?style=flat-square) Built cross-platform mobile UI components using **Flutter & Dart** — widget composition & state management
+- ![](https://img.shields.io/badge/-Prototyping-0d1117?style=flat-square) Prototyped real-time app interfaces with senior devs, strengthening **mobile-first design** skills
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://cdn.simpleicons.org/rocket/70A5FD" width="22" valign="bottom" /> Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:-----:|:-----------|
-| [**🧠 EmotiScan**](https://github.com/Mosesshamnavin/EmotiScan) | React, face-api.js, TensorFlow.js | AI emotion detection — real-time **webcam facial expression** analysis |
-| [**📰 NewsDesk**](https://github.com/Mosesshamnavin/NewsDesk) | TypeScript, React, ShadCN UI | Interactive dashboard for **real-time news** organization & moderation |
-| [**🌤️ SkyCast**](https://github.com/Mosesshamnavin/SkyCast) | JavaScript, Weather API | Real-time **weather forecast** for any location with interactive UI |
-| [**🛍️ SouzaFlair**](https://github.com/Mosesshamnavin/SouzaFlair) | React, Tailwind CSS | Modern **e-commerce fashion platform** — cart, categories, responsive design |
-| [**📦 Scanly**](https://github.com/Mosesshamnavin/Scanly) | JavaScript, React | Instant **QR code generator** from text or URLs |
-| [**📊 TrendTracker**](https://github.com/Mosesshamnavin/TrendTracker) | Power BI | Textile shop **sales analytics** — revenue trends & product performance |
+| [**EmotiScan**](https://github.com/Mosesshamnavin/EmotiScan) | React, face-api.js, TensorFlow.js | AI emotion detection — real-time **webcam facial expression** analysis |
+| [**NewsDesk**](https://github.com/Mosesshamnavin/NewsDesk) | TypeScript, React, ShadCN UI | Interactive dashboard for **real-time news** organization & moderation |
+| [**SkyCast**](https://github.com/Mosesshamnavin/SkyCast) | JavaScript, Weather API | Real-time **weather forecast** for any location with interactive UI |
+| [**SouzaFlair**](https://github.com/Mosesshamnavin/SouzaFlair) | React, Tailwind CSS | Modern **e-commerce fashion platform** — cart, categories, responsive design |
+| [**Scanly**](https://github.com/Mosesshamnavin/Scanly) | JavaScript, React | Instant **QR code generator** from text or URLs |
+| [**TrendTracker**](https://github.com/Mosesshamnavin/TrendTracker) | Power BI | Textile shop **sales analytics** — revenue trends & product performance |
 
 </div>
 
 ---
 
-## 🎖️ Achievements
+## <img src="https://cdn.simpleicons.org/github/70A5FD" width="22" valign="bottom" /> Achievements
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🏊 | **Pull Shark** | GitHub Achievement — multiple merged pull requests |
-| ⚡ | **Quickdraw** | GitHub Achievement — fast issue/PR response |
-| 👥 | **Pair Extraordinaire** | GitHub Achievement — collaborative co-authoring |
-| 🎓 | **MCA Graduate** | Francis Xavier Engineering College — 2023–2025 |
-| 💻 | **Production Delivery** | QR cashback system processing **100+ requests/day** |
-| ⚡ | **Performance Win** | **95+ Lighthouse score** on eCommerce platform |
-| 🚀 | **40% Load Time Cut** | Lazy loading + code splitting optimization |
-| 👥 | **Enterprise Scale** | Apps serving **50+ internal users** across 3 business verticals |
+| Badge | Achievement | Details |
+|:-----:|:------------|:--------|
+| ![](https://img.shields.io/badge/Pull_Shark-181717?style=flat-square&logo=github&logoColor=white) | **Pull Shark** | GitHub Achievement — multiple merged pull requests |
+| ![](https://img.shields.io/badge/Quickdraw-181717?style=flat-square&logo=github&logoColor=white) | **Quickdraw** | GitHub Achievement — fast issue/PR response |
+| ![](https://img.shields.io/badge/Pair_Extraordinaire-181717?style=flat-square&logo=github&logoColor=white) | **Pair Extraordinaire** | GitHub Achievement — collaborative co-authoring |
+| ![](https://img.shields.io/badge/MCA_Graduate-3178C6?style=flat-square&logo=academia&logoColor=white) | **MCA Graduate** | Francis Xavier Engineering College — 2023–2025 |
+| ![](https://img.shields.io/badge/Production-339933?style=flat-square&logo=checkmarx&logoColor=white) | **Production Delivery** | QR cashback system processing **100+ requests/day** |
+| ![](https://img.shields.io/badge/Lighthouse_95+-F05032?style=flat-square&logo=lighthouse&logoColor=white) | **Performance Win** | **95+ Lighthouse score** on eCommerce platform |
+| ![](https://img.shields.io/badge/40%25_Faster-1EB4D4?style=flat-square&logo=speedtest&logoColor=white) | **40% Load Time Cut** | Lazy loading + code splitting optimization |
+| ![](https://img.shields.io/badge/Enterprise_Scale-7952B3?style=flat-square&logo=building&logoColor=white) | **Enterprise Scale** | Apps serving **50+ internal users** across 3 business verticals |
 
 </div>
 
 ---
 
-## 🎓 Education
+## <img src="https://cdn.simpleicons.org/googlescholar/70A5FD" width="22" valign="bottom" /> Education
 
 <div align="center">
 
 | Degree | Institution | Year |
 |:------:|:-----------:|:----:|
-| 🎓 Master of Computer Applications (MCA) | Francis Xavier Engineering College | 2023 – 2025 |
-| 🎓 Bachelor's Degree | Kamaraj College | 2020 – 2023 |
+| ![](https://img.shields.io/badge/MCA-3178C6?style=flat-square) Master of Computer Applications | Francis Xavier Engineering College | 2023 – 2025 |
+| ![](https://img.shields.io/badge/B.Sc-bf91f3?style=flat-square) Bachelor's Degree | Kamaraj College | 2020 – 2023 |
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## <img src="https://cdn.simpleicons.org/bookstack/70A5FD" width="22" valign="bottom" /> Currently Learning
 
 ```
-🧱 System Design  →  Scalability, Load Balancing, Caching Strategies
-☁️  Cloud (AWS)   →  EC2, S3, Lambda, IAM
-🐳 DevOps         →  Docker, CI/CD, GitHub Actions
-🔐 Auth           →  OAuth2, JWT Best Practices, RBAC
-📊 Data Layer     →  Advanced PostgreSQL, Query Optimization
+[ System Design ]  →  Scalability, Load Balancing, Caching Strategies
+[ Cloud — AWS  ]   →  EC2, S3, Lambda, IAM
+[ DevOps       ]   →  Docker, CI/CD, GitHub Actions
+[ Auth         ]   →  OAuth2, JWT Best Practices, RBAC
+[ Data Layer   ]   →  Advanced PostgreSQL, Query Optimization
 ```
 
 ---
 
-## 🤝 Connect With Me
+## <img src="https://cdn.simpleicons.org/linkedin/70A5FD" width="22" valign="bottom" /> Connect With Me
 
 <p align="center">
   <a href="https://mosesshamnavin.vercel.app/" target="_blank">
