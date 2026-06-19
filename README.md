@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mosesshamnavin&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Mosesshamnavin?label=Followers&style=flat-square&color=bf91f3&logoColor=white" alt="Followers" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Moses%20Sham%20Navin%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%7C%20Building%20Interfaces%20That%20Matter&descAlignY=62&descSize=16" />
