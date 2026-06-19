@@ -2,10 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Mosesshamnavin&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Moses%20Sham%20Navin%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%7C%20Building%20Interfaces%20That%20Matter&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Moses%20Sham%20Navin%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%7C%20Building%20Interfaces%20That%20Matter&descAlignY=62&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Moses+Sham+Navin;Frontend+Developer+%7C+React+%2B+Next.js;Building+Performant+Web+Experiences;TypeScript+%7C+GraphQL+%7C+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Moses+Sham+Navin;Frontend+Developer+%7C+React+%2B+Next.js;Building+Performant+Web+Experiences;TypeScript+%7C+GraphQL+%7C+Tailwind+CSS" alt="Typing SVG" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ const moses = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
@@ -85,9 +85,9 @@ const moses = {
 
 ---
 
-## ![Work Experience](https://img.shields.io/badge/Work_Experience-70A5FD?style=flat-square&logo=briefcase&logoColor=white) &nbsp;Work Experience
+## ![Work Experience](https://img.shields.io/badge/Work_Experience-70A5FD?style=flat-square&logo=gitlab&logoColor=white) &nbsp;Work Experience
 
-### ![Hysas](https://img.shields.io/badge/Hysas_Technology-bf91f3?style=flat-square&logo=building&logoColor=white) Junior Software Developer
+### ![Hysas](https://img.shields.io/badge/Hysas_Technology-bf91f3?style=flat-square&logo=microsoft&logoColor=white) Junior Software Developer
 **Sep 2025 – Present · Tamil Nadu, India**
 
 > ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -100,7 +100,7 @@ const moses = {
 
 ---
 
-### ![Codem](https://img.shields.io/badge/Codem_Inc.-bf91f3?style=flat-square&logo=building&logoColor=white) Software Development Intern
+### ![Codem](https://img.shields.io/badge/Codem_Inc.-bf91f3?style=flat-square&logo=microsoft&logoColor=white) Software Development Intern
 **Feb 2025 – May 2025 · Remote**
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -112,7 +112,7 @@ const moses = {
 
 ---
 
-### ![Digisailor](https://img.shields.io/badge/Digisailor-bf91f3?style=flat-square&logo=building&logoColor=white) Mobile Development Intern
+### ![Digisailor](https://img.shields.io/badge/Digisailor-bf91f3?style=flat-square&logo=microsoft&logoColor=white) Mobile Development Intern
 **June 2024 – July 2024 · Tamil Nadu, India**
 
 > ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -148,11 +148,11 @@ const moses = {
 | ![](https://img.shields.io/badge/Pull_Shark-181717?style=flat-square&logo=github&logoColor=white) | **Pull Shark** | GitHub Achievement — multiple merged pull requests |
 | ![](https://img.shields.io/badge/Quickdraw-181717?style=flat-square&logo=github&logoColor=white) | **Quickdraw** | GitHub Achievement — fast issue/PR response |
 | ![](https://img.shields.io/badge/Pair_Extraordinaire-181717?style=flat-square&logo=github&logoColor=white) | **Pair Extraordinaire** | GitHub Achievement — collaborative co-authoring |
-| ![](https://img.shields.io/badge/MCA_Graduate-3178C6?style=flat-square&logo=graduationcap&logoColor=white) | **MCA Graduate** | Francis Xavier Engineering College — 2023–2025 |
+| ![](https://img.shields.io/badge/MCA_Graduate-3178C6?style=flat-square&logo=academia&logoColor=white) | **MCA Graduate** | Francis Xavier Engineering College — 2023–2025 |
 | ![](https://img.shields.io/badge/Production-339933?style=flat-square&logo=checkmarx&logoColor=white) | **Production Delivery** | QR cashback system processing **100+ requests/day** |
-| ![](https://img.shields.io/badge/Lighthouse_95%2B-F05032?style=flat-square&logo=lighthouse&logoColor=white) | **Performance Win** | **95+ Lighthouse score** on eCommerce platform |
-| ![](https://img.shields.io/badge/40%25_Faster-1EB4D4?style=flat-square&logo=speedtest&logoColor=white) | **40% Load Time Cut** | Lazy loading + code splitting optimization |
-| ![](https://img.shields.io/badge/Enterprise_Scale-7952B3?style=flat-square&logo=users&logoColor=white) | **Enterprise Scale** | Apps serving **50+ internal users** across 3 business verticals |
+| ![](https://img.shields.io/badge/Lighthouse_95%2B-F05032?style=flat-square&logo=googlechrome&logoColor=white) | **Performance Win** | **95+ Lighthouse score** on eCommerce platform |
+| ![](https://img.shields.io/badge/40%25_Faster-1EB4D4?style=flat-square&logo=vercel&logoColor=white) | **40% Load Time Cut** | Lazy loading + code splitting optimization |
+| ![](https://img.shields.io/badge/Enterprise_Scale-7952B3?style=flat-square&logo=googlemeet&logoColor=white) | **Enterprise Scale** | Apps serving **50+ internal users** across 3 business verticals |
 
 </div>
 
@@ -164,8 +164,8 @@ const moses = {
 
 | Degree | Institution | Year |
 |:------:|:-----------:|:----:|
-| ![](https://img.shields.io/badge/MCA-3178C6?style=flat-square) Master of Computer Applications | Francis Xavier Engineering College | 2023 – 2025 |
-| ![](https://img.shields.io/badge/B.Com-bf91f3?style=flat-square) Bachelor of Commerce | Kamaraj College | 2020 – 2023 |
+| **MCA** — Master of Computer Applications | Francis Xavier Engineering College | 2023 – 2025 |
+| **B.Com** — Bachelor of Commerce | Kamaraj College | 2020 – 2023 |
 
 </div>
 
@@ -195,11 +195,11 @@ const moses = {
   <a href="mailto:shamnavin13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Mosesshamnavin">
+  <a href="https://github.com/Mosesshamnavin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center"><i>"Ship fast. Build clean. Learn always."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
