@@ -10,6 +10,10 @@
   <a href="https://mosesshamnavin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mosesshamnavin&label=Profile+Views&color=00C9A7&style=flat-square" />
+</p>
+
 <br>
 
 ## <img width="26" src="https://img.icons8.com/fluency/48/code.png" /> Tech Stack
@@ -113,8 +117,11 @@ Real-time webcam facial expression analysis
 ## <img width="26" src="https://img.icons8.com/fluency/48/combo-chart.png" /> GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mosesshamnavin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosesshamnavin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mosesshamnavin&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosesshamnavin&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -142,9 +149,5 @@ Real-time webcam facial expression analysis
 ---
 
 <p align="center"><i>"Progress over perfection."</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mosesshamnavin&label=Profile+Views&color=00C9A7&style=flat-square" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=150&section=footer&animation=fadeIn" />
