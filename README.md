@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=250&section=header&text=Moses%20Sham%20Navin%20R&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20AI%2FLLM&descAlignY=55&descSize=18" />
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mosesshamnavin&label=Profile+Views&color=00C9A7&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Building+scalable+full-stack+apps;Next.js+%2B+Node.js+%2B+PostgreSQL;Exploring+AI%2FLLM+workflows+with+LangGraph;Progress+over+perfection." />
 </p>
 
@@ -8,10 +12,6 @@
   <a href="https://www.linkedin.com/in/mosesshamnavin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shamnavin13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://mosesshamnavin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mosesshamnavin&label=Profile+Views&color=00C9A7&style=flat-square" />
 </p>
 
 <br>
@@ -36,42 +36,36 @@
 
 ## <img width="26" src="https://img.icons8.com/fluency/48/briefcase.png" /> Experience
 
-<table width="100%">
-<tr>
-<td>
+<div style="border:1px solid #2C5364;border-radius:8px;padding:16px 20px;margin-bottom:14px;">
 
-**Hysas Technology Pvt Ltd** — Junior Software Developer
-`Sep 2025 – Present`
+**Hysas Technology Pvt Ltd** — Junior Software Developer &nbsp;&nbsp;`Sep 2025 – Present`
 
 - Enterprise Next.js + Hasura GraphQL apps → **50+ users, 99.9% uptime**
 - React + Redux Toolkit component library → **30% faster feature delivery**
 - PostgreSQL/Sequelize fixes for **200+ employee records**
 - Razorpay + Cashfree QR cashback system → **100+ daily redemptions**
 
-</td>
-</tr>
-<tr>
-<td>
+</div>
 
-**Codem Inc.** — Software Development Intern
-`Feb 2025 – May 2025`
+<div style="border:1px solid #2C5364;border-radius:8px;padding:16px 20px;margin-bottom:14px;">
 
-- PHP eCommerce refactor → **95+ Lighthouse score**
-- Real-time currency converter → **15+ countries** + Stripe integration
+**Codem Inc.** — Software Development Intern &nbsp;&nbsp;`Feb 2025 – May 2025`
 
-</td>
-</tr>
-<tr>
-<td>
+- Enhanced a PHP-based eCommerce backend, refactoring CRUD operations → **95+ Lighthouse score**
+- Integrated a real-time currency converter supporting **15+ countries** alongside **Stripe** payment gateway
+- Redesigned product catalog UI and improved mobile responsiveness
+- Participated in debugging, unit testing, and Agile workflows with senior developers using Git
 
-**Digisailor** — Mobile Development Intern
-`Jun 2024 – Jul 2024`
+</div>
 
-- Cross-platform mobile UI with **Flutter & Dart**
+<div style="border:1px solid #2C5364;border-radius:8px;padding:16px 20px;margin-bottom:14px;">
 
-</td>
-</tr>
-</table>
+**Digisailor** — Mobile Development Intern &nbsp;&nbsp;`Jun 2024 – Jul 2024`
+
+- Built cross-platform mobile UI components using **Flutter & Dart** — widget composition & state management
+- Prototyped real-time app interfaces with senior developers, strengthening mobile-first design skills
+
+</div>
 
 <br>
 
@@ -126,11 +120,6 @@ Real-time webcam facial expression analysis
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosesshamnavin&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Contribution snake — see setup steps below -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mosesshamnavin/Mosesshamnavin/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
 <br>
