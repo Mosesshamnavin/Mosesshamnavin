@@ -1,11 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=250&section=header&text=Moses%20Sham%20Navin%20R&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20AI%2FLLM&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Building+scalable+full-stack+apps;Next.js+%2B+Node.js+%2B+PostgreSQL;Exploring+AI%2FLLM+workflows+with+LangGraph;Ship+fast.+Build+clean.+Learn+always." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Building+scalable+full-stack+apps;Next.js+%2B+Node.js+%2B+PostgreSQL;Exploring+AI%2FLLM+workflows+with+LangGraph;Progress+over+perfection." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mosesshamnavin&label=Profile+Views&color=00C9A7&style=for-the-badge" />
   <a href="https://www.linkedin.com/in/mosesshamnavin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shamnavin13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://mosesshamnavin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -13,7 +12,7 @@
 
 <br>
 
-## ⚡ Tech Stack
+## <img width="26" src="https://img.icons8.com/fluency/48/code.png" /> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,fastapi,graphql,hasura,postgres,mysql,mongodb,docker,aws,git,figma,flutter,vscode&theme=dark&perline=10" />
@@ -21,7 +20,7 @@
 
 <br>
 
-## 🤖 AI / LLM Tooling
+## <img width="26" src="https://img.icons8.com/fluency/48/artificial-intelligence.png" /> AI / LLM Tooling
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -31,13 +30,13 @@
 
 <br>
 
-## 💼 Experience
+## <img width="26" src="https://img.icons8.com/fluency/48/briefcase.png" /> Experience
 
 <table width="100%">
 <tr>
 <td>
 
-**🏢 Hysas Technology Pvt Ltd** — Junior Software Developer
+**Hysas Technology Pvt Ltd** — Junior Software Developer
 `Sep 2025 – Present`
 
 - Enterprise Next.js + Hasura GraphQL apps → **50+ users, 99.9% uptime**
@@ -50,7 +49,7 @@
 <tr>
 <td>
 
-**🏢 Codem Inc.** — Software Development Intern
+**Codem Inc.** — Software Development Intern
 `Feb 2025 – May 2025`
 
 - PHP eCommerce refactor → **95+ Lighthouse score**
@@ -61,7 +60,7 @@
 <tr>
 <td>
 
-**🏢 Digisailor** — Mobile Development Intern
+**Digisailor** — Mobile Development Intern
 `Jun 2024 – Jul 2024`
 
 - Cross-platform mobile UI with **Flutter & Dart**
@@ -72,20 +71,20 @@
 
 <br>
 
-## 🚀 Featured Projects
+## <img width="26" src="https://img.icons8.com/fluency/48/rocket.png" /> Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### [🧠 AI-First HCP CRM](https://github.com/Mosesshamnavin/HCP-CRM-AI)
+### [AI-First HCP CRM](https://github.com/Mosesshamnavin/HCP-CRM-AI)
 React · FastAPI · LangGraph · Groq
 AI-driven CRM — **60% less manual data entry**
 
 </td>
 <td width="50%" valign="top">
 
-### [🎭 Sentiment Analysis App](https://github.com/Mosesshamnavin/smartapp)
+### [Sentiment Analysis App](https://github.com/Mosesshamnavin/smartapp)
 React · TensorFlow.js · face-api.js
 **85%+ accuracy**, sub-100ms real-time detection
 
@@ -94,14 +93,14 @@ React · TensorFlow.js · face-api.js
 <tr>
 <td width="50%" valign="top">
 
-### [📰 News Checkup](https://github.com/Mosesshamnavin/News-Checkup)
+### [News Checkup](https://github.com/Mosesshamnavin/News-Checkup)
 React · Node.js · JWT
 Face-recognition login + RBAC admin panel
 
 </td>
 <td width="50%" valign="top">
 
-### [👁️ EmotiScan](https://github.com/Mosesshamnavin/EmotiScan)
+### [EmotiScan](https://github.com/Mosesshamnavin/EmotiScan)
 React · face-api.js · TensorFlow.js
 Real-time webcam facial expression analysis
 
@@ -111,29 +110,25 @@ Real-time webcam facial expression analysis
 
 <br>
 
-## 📊 GitHub Activity
+## <img width="26" src="https://img.icons8.com/fluency/48/combo-chart.png" /> GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mosesshamnavin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosesshamnavin&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mosesshamnavin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosesshamnavin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosesshamnavin&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosesshamnavin&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosesshamnavin&theme=react-dark&hide_border=true" width="90%"/>
-</p>
-
-<!-- 🐍 Contribution snake — see setup steps below -->
+<!-- Contribution snake — see setup steps below -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mosesshamnavin/Mosesshamnavin/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
 <br>
 
-## 📚 Currently Learning
+## <img width="26" src="https://img.icons8.com/fluency/48/book-shelf.png" /> Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/System_Design-0F2027?style=for-the-badge" />
@@ -144,6 +139,12 @@ Real-time webcam facial expression analysis
 
 <br>
 
-<p align="center"><i>"Ship fast. Build clean. Learn always."</i></p>
+---
+
+<p align="center"><i>"Progress over perfection."</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mosesshamnavin&label=Profile+Views&color=00C9A7&style=flat-square" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=150&section=footer&animation=fadeIn" />
