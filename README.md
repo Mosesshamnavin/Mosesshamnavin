@@ -118,9 +118,6 @@ Real-time webcam facial expression analysis
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosesshamnavin&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosesshamnavin&theme=tokyonight&hide_border=true" />
-</p>
 
 <br>
 
